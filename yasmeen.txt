@@ -1,0 +1,13 @@
+Firebase can be used in a delivery order app in several ways, even if you have a back-end server:
+
+User authentication: Firebase provides an easy-to-use authentication system that can be used to handle user sign-up and login. It supports a variety of authentication methods, including email/password, phone number, and social media logins.
+
+Real-time database: Firebase provides a NoSQL cloud database that can be used to store and retrieve data in real-time. This can be useful for storing information about orders, delivery locations, and other app-related data.
+
+Cloud storage: Firebase can be used to store and retrieve files, such as images and videos, in the cloud. This can be useful for storing images of products, user profile pictures, and other files.
+
+Cloud functions: Firebase Cloud Functions allow you to run server-side code in response to specific events, like changes to the database or new files being uploaded to storage. This can be useful for sending push notifications, sending emails or doing some computation.
+
+Analytics: Firebase provides powerful analytics tools that can be used to track user behavior and app performance. This can be useful for understanding how users are interacting with the app and identifying areas that need improvement.
+
+Crashlytics: Firebase provides a crash reporting service that can be used to track and fix errors in your app.
